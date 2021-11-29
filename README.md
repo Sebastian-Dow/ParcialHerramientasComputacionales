@@ -1,6 +1,6 @@
 # ParcialHerramientasComputacionales
-Desarrollo del parcial final de curso de Herramientas Computacionales 2021 - 2 por Sebastián Dow Valenzuela
-Proyecto iniciado el 28 de Noviembre de 2021.
+**Desarrollo del parcial final de curso de Herramientas Computacionales 2021 - 2 por Sebastián Dow Valenzuela
+Proyecto iniciado el 28 de Noviembre de 2021.**
 
 ## Descripción general
 
@@ -14,15 +14,15 @@ planteamiento del problema.
 El programa se basa en un modelo computacional que registra datos para un único usuario y desarrolla operaciones
 en base a los datos registrados. Este programa debe recibir los siguientes datos:
 
-1. Rol del usuario en la institución educativa: Variable cualitativa binominal.
-2. Documento de identidad del usuario: Variable cuantitativa entera (Nominal).
+1. **Rol del usuario en la institución educativa:** Variable cualitativa binominal.
+2. **Documento de identidad del usuario:** Variable cuantitativa entera (Nominal).
 
 Luego, debe recibir una serie de n productos definidos por un código y asociados a un valor monetario
 (En pesos) y una cantidad entera:
 
-1. Código del producto: Variable cualitativa nominal.
-2. Precio del producto: Variable cuantitativa entera.
-3. cantidad del producto: Variable cuantitativa entera.
+1. **Código del producto:** Variable cualitativa nominal.
+2. **Precio del producto:** Variable cuantitativa entera.
+3. **cantidad del producto:** Variable cuantitativa entera.
 
 ## Operaciones
 
@@ -43,6 +43,6 @@ productos para determinar el total.
 
 Finalmente, el código debe retornar el siguiente mensaje:
 
-### ”El Rol con cedula -Numero-, debe pagar -Valor- por el producto -Codigo-”
+### ”El Rol con cedula _Numero_, debe pagar _Valor_ por el producto _Codigo_”
 
 Se puede realizará un cambio en el mensaje de salida para compras de múltiples productos.
