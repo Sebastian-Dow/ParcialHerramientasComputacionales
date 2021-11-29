@@ -23,4 +23,4 @@ Finalmente, el código debe retornar el siguiente mensaje:
 
 ”El <<<Rol>>> con cedula <<<Numero>>>, debe pagar <<<Valor>>> por el producto <<<Codigo>>>”
 
-se puede realizar un cambio en el mensaje para compras de múltiples productos.
+Se puede realizará un cambio en el mensaje de salida para compras de múltiples productos.
